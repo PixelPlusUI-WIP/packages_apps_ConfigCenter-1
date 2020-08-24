@@ -223,6 +223,10 @@
     <string name="hide_lockicon_title">Hide lock icon</string>
     <string name="hide_lockicon_summary">Hide the lock icon on lockscreen</string>
 
+    <!-- One ui actionbar -->
+    <string name="enable_oneui">OneUI</string>
+				    <string name="enable_oneui_summary">Show spacer above settings actionbar for easier use with one hand\nNOTE: restart settings app to see effect</string>
+
     <!-- Center R Notification headers -->
     <string name="center_notification_headers_title">Center notification headers</string>
     <string name="center_notification_headers_summary">Whether to Center R style notification headers (Requires a SystemUI restart)</string>    
