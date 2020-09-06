@@ -231,4 +231,8 @@
     <string name="hide_lockicon_title">Hide lock icon</string>
     <string name="hide_lockicon_summary">Hide the lock icon on lockscreen</string>
 
+    <!-- QS tiles Accent color tinting -->
+    <string name="tint_qs_tiles_title">QS tiles tint</string>
+    <string name="tint_qs_tiles_summary">Tint QS tiles with color accent</string>
+
 </resources>
